@@ -44,4 +44,4 @@ The dataset used for this analysis was sourced from publicly available Netflix d
 - **Farvesh Mohaiyadeen A** - Data Analysis & Power BI Dashboard Development
 
 ## Contact
-For any questions or collaboration, feel free to connect via farveshmohaiyadeen@gmail.com or linkedin.com/in/farvesh-mohaiyadeen-a-853a15184.
+For any questions or collaboration, feel free to connect via farveshmohaiyadeen@gmail.com or www.linkedin.com/in/farvesh-mohaiyadeen-a-853a15184.
